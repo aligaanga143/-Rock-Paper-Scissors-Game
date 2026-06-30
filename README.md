@@ -1,5 +1,12 @@
 🎮 Rock Paper Scissors Game
 
+
+## 🚀 Live Demo
+
+https://aligaanga143.github.io/-Rock-Paper-Scissors-Game/
+
+---
+
 A responsive Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
 ✨ Features
